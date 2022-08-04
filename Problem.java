@@ -32,7 +32,6 @@ public class Problem {
                             if (setOfNames.add(name+i)){
 
                                 check.add(name+i);
-                                //check.add("Ok");
                                 break;
 
                             }
